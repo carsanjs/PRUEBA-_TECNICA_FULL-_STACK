@@ -1,0 +1,72 @@
+[
+    {
+      "id": "1",
+      "Nombre": "Dune",
+      "Edad": "56",
+      "Departamento": "Science Fiction",
+      "Email": "example@example.com"
+    },
+    {
+      "id": "2",
+      "Nombre": "Foundation",
+      "Edad": "100",
+      "Departamento": "Science Fiction",
+      "Email": "example@example.com"
+    },
+    {
+      "id": "3",
+      "Nombre": "1984",
+      "Edad": "72",
+      "Departamento": "Science Fiction",
+      "Email": "example@example.com"
+    },
+    {
+      "id": "4",
+      "Nombre": "Brave New World",
+      "Edad": "88",
+      "Departamento": "Science Fiction",
+      "Email": "example@example.com"
+    },
+    {
+      "id": "5",
+      "Nombre": "The Hitchhiker's Guide to the Galaxy",
+      "Edad": "42",
+      "Departamento": "Science Fiction",
+      "Email": "example@example.com"
+    },
+    {
+      "id": "6",
+      "Nombre": "Neuromancer",
+      "Edad": "36",
+      "Departamento": "Science Fiction",
+      "Email": "example@example.com"
+    },
+    {
+      "id": "7",
+      "Nombre": "Ender's Game",
+      "Edad": "36",
+      "Departamento": "Science Fiction",
+      "Email": "example@example.com"
+    },
+    {
+      "id": "8",
+      "Nombre": "Fahrenheit 451",
+      "Edad": "68",
+      "Departamento": "Science Fiction",
+      "Email": "example@example.com"
+    },
+    {
+      "id": "9",
+      "Nombre": "A Wrinkle in Time",
+      "Edad": "58",
+      "Departamento": "Science Fiction",
+      "Email": "example@example.com"
+    },
+    {
+      "id": "10",
+      "Nombre": "The War of the Worlds",
+      "Edad": "123",
+      "Departamento": "Science Fiction",
+      "Email": "example@example.com"
+    }
+  ]
