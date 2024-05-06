@@ -4,7 +4,7 @@ inicializamos el backend
 Instala **pnpm** globalmente: $pnpm init
 Instala el paquete de **ts-node**: (pnpm install ts-node) 
 Agrega el script de desarrollo en **package.json**:
-```json
+
 "scripts": {
     "dev": "ts-node server.ts"
 }
